@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Analytics and Blockchain Technology
 - 🌱 I’m currently learning Data Analytics with Thinkful
 - 💞️ I’m looking to collaborate on any entry level projects to improve my skillset
-- 📫 Reach me via E-mail 
+- 📫 Reach me via E-mail or Linkedin 
 
 <!---
 J-Guevara/J-Guevara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
